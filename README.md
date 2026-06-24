@@ -247,7 +247,7 @@ Identify concentrations of risk across regions, loan types, and borrower segment
 * Visual Studio Code
 
 ## Repository Structure
-
+```
 |   Random_Forest.py
 |   README.md
 |
@@ -270,7 +270,7 @@ Identify concentrations of risk across regions, loan types, and borrower segment
         Confusion_Matrix.png
         Feature_Importance.png
         ROC_CURVE.png
-
+```
 
 ## Future Improvements
 
