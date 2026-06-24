@@ -1,5 +1,7 @@
 # Intelligent Loan Default Prediction Using Random Forest
 
+**𝐃𝐚𝐭𝐚 𝐥𝐞𝐚𝐤𝐚𝐠𝐞**  is a critical issue in machine learning. A model may appear highly accurate, but if information from the test data leaks into the training process, its performance in the real world will likely be much lower. Proper train-test separation is essential for building robust and reliable models.
+
 ## Project Overview
 
 Financial institutions face significant challenges in managing credit risk and minimizing losses resulting from loan defaults. Traditional credit assessment methods often rely on manual reviews and limited scoring systems, which may not fully capture complex relationships among borrower characteristics, loan attributes, and repayment behavior.
